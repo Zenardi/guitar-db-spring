@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<ps-guitar-db>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.guitar.db.psguitardb.DemoApplication",
+            "projectName": "ps-guitar-db",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-GuitarApplication<ps-guitar-db>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.guitar.db.psguitardb.GuitarApplication",
+            "projectName": "ps-guitar-db",
+            "args": ""
+        }
+    ]
+}
